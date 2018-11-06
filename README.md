@@ -1,9 +1,8 @@
 # PopWindow
 ### 参考 [https://juejin.im/post/5bde9660e51d4573506a1c76](https://juejin.im/post/5bde9660e51d4573506a1c76)
-
-
 <image src="https://github.com/Golabe/PopWindow/blob/master/a.png?raw=true" width="300"/>
 <image src="https://github.com/Golabe/PopWindow/blob/master/b.png?raw=true" width="300"/>
+
 ## 使用
 ```java
    new PopWindowView.Builder(this,view)
