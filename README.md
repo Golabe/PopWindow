@@ -4,6 +4,11 @@
 <image src="https://github.com/Golabe/PopWindow/blob/master/b.png?raw=true" width="300"/>
 
 ## 使用
+## Gradle 添加
+```
+implementation 'top.golabe.popwindowview:popwindowview:1.0.0'
+```
+
 ```java
    new PopWindowView.Builder(this,view)
                 .setItems(dataList)
