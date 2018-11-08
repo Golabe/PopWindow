@@ -6,7 +6,7 @@
 ## 使用
 ## Gradle 添加
 ```
-implementation 'top.golabe.popwindowview:popwindowview:1.0.0'
+implementation 'top.golabe.PopWindowView:popwindowview:1.0.0'
 ```
 ## Java代码
 ```java
